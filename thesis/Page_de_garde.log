@@ -1,0 +1,807 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.8)  20 MAY 2017 11:03
+entering extended mode
+**./Page_de_garde.tex
+(Page_de_garde.tex
+LaTeX2e <2017/01/01> patch level 1
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--2
+[] 
+ []
+
+! Undefined control sequence.
+l.4 {\small
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmss10!
+Missing character: There is no ® in font cmss10!
+Missing character: There is no √ in font cmss10!
+Missing character: There is no © in font cmss10!
+
+Overfull \hbox (34.00006pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 Ministre 
+ []
+
+
+Overfull \hbox (9.61111pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 de 
+ []
+
+
+Overfull \hbox (62.75005pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 l'Enseignement 
+ []
+
+
+Overfull \hbox (14.05557pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 Su- 
+ []
+
+
+Overfull \hbox (23.72226pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 prieur 
+ []
+
+
+Overfull \hbox (8.05556pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 et 
+ []
+
+
+Overfull \hbox (9.61111pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 de 
+ []
+
+
+Overfull \hbox (7.19446pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 la 
+ []
+
+
+Overfull \hbox (42.4306pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 Recherche 
+ []
+
+
+Overfull \hbox (15.72223pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 Sci- 
+ []
+
+
+Overfull \hbox (12.94444pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 en- 
+ []
+
+
+Overfull \hbox (26.1389pt too wide) in paragraph at lines 5--5
+ \OT1/cmss/m/n/10 tifique 
+ []
+
+Missing character: There is no √ in font cmss10!
+Missing character: There is no © in font cmss10!
+
+Overfull \hbox (36.73619pt too wide) in paragraph at lines 6--6
+ []\OT1/cmss/m/n/10 Universit 
+ []
+
+
+Overfull \hbox (13.44444pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 des 
+ []
+
+
+Overfull \hbox (15.72223pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 Sci- 
+ []
+
+
+Overfull \hbox (22.33333pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 ences 
+ []
+
+
+Overfull \hbox (8.05556pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 et 
+ []
+
+
+Overfull \hbox (9.61111pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 de 
+ []
+
+
+Overfull \hbox (7.19446pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 la 
+ []
+
+
+Overfull \hbox (23.36111pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 Tech- 
+ []
+
+
+Overfull \hbox (20.88892pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 nolo- 
+ []
+
+
+Overfull \hbox (11.83334pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 gie 
+ []
+
+
+Overfull \hbox (27.58342pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 Houari 
+ []
+
+
+Overfull \hbox (32.5556pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 Boume- 
+ []
+
+
+Overfull \hbox (10.88889pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 di- 
+ []
+
+
+Overfull \hbox (14.05556pt too wide) in paragraph at lines 6--6
+ \OT1/cmss/m/n/10 ene 
+ []
+
+Missing character: There is no √ in font cmss10!
+Missing character: There is no © in font cmss10!
+
+Overfull \hbox (25.83337pt too wide) in paragraph at lines 7--7
+ []\OT1/cmss/m/n/10 Facult 
+ []
+
+
+Overfull \hbox (59.55562pt too wide) in paragraph at lines 7--7
+ \OT1/cmss/m/n/10 d'Electronique 
+ []
+
+
+Overfull \hbox (8.05556pt too wide) in paragraph at lines 7--7
+ \OT1/cmss/m/n/10 et 
+ []
+
+
+Overfull \hbox (60.61124pt too wide) in paragraph at lines 7--7
+ \OT1/cmss/m/n/10 d'Informatique 
+ []
+
+Missing character: There is no √ in font cmss10!
+Missing character: There is no © in font cmss10!
+
+Overfull \hbox (49.55565pt too wide) in paragraph at lines 8--8
+ []\OT1/cmss/m/n/10 Dpartement 
+ []
+
+
+Overfull \hbox (60.61124pt too wide) in paragraph at lines 8--8
+ \OT1/cmss/m/n/10 d'Informatique 
+ []
+
+! Undefined control sequence.
+l.13 \includegraphics
+                     [width=0.2\textwidth]{USTHB}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.13 \includegraphics[width=0.2\textwidth]
+                                          {USTHB}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.13 \includegraphics[width=0.2\textwidth]
+                                          {USTHB}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (82.48634pt too wide) in paragraph at lines 13--14
+ []\OT1/cmss/m/n/10 [width=0.2]USTHB 
+ []
+
+! Undefined control sequence.
+l.17 {\bfseries\LARGE
+                      M√©moire de Master}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmssbx10!
+Missing character: There is no © in font cmssbx10!
+
+Overfull \hbox (35.3335pt too wide) in paragraph at lines 17--18
+ []\OT1/cmss/bx/n/10 Mmoire 
+ []
+
+
+Overfull \hbox (10.72226pt too wide) in paragraph at lines 17--18
+ \OT1/cmss/bx/n/10 de 
+ []
+
+
+Overfull \hbox (22.91124pt too wide) in paragraph at lines 17--18
+ \OT1/cmss/bx/n/10 Mas- 
+ []
+
+
+Overfull \hbox (12.87506pt too wide) in paragraph at lines 17--18
+ \OT1/cmss/bx/n/10 ter 
+ []
+
+! Undefined control sequence.
+l.21 {\large
+             Domaine}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 {\large
+             Math√©matiques et Informatique}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmss10!
+Missing character: There is no © in font cmss10!
+
+Overfull \hbox (36.9723pt too wide) in paragraph at lines 21--23
+ []\OT1/cmss/m/n/10 Domaine 
+ []
+
+
+Overfull \hbox (25.66673pt too wide) in paragraph at lines 21--23
+ \OT1/cmss/m/n/10 Math- 
+ []
+
+
+Overfull \hbox (16.08336pt too wide) in paragraph at lines 21--23
+ \OT1/cmss/m/n/10 ma- 
+ []
+
+
+Overfull \hbox (24.61111pt too wide) in paragraph at lines 21--23
+ \OT1/cmss/m/n/10 tiques 
+ []
+
+
+Overfull \hbox (8.05556pt too wide) in paragraph at lines 21--23
+ \OT1/cmss/m/n/10 et 
+ []
+
+
+Overfull \hbox (11.2778pt too wide) in paragraph at lines 21--23
+ \OT1/cmss/m/n/10 In- 
+ []
+
+
+Overfull \hbox (14.52782pt too wide) in paragraph at lines 21--23
+ \OT1/cmss/m/n/10 for- 
+ []
+
+
+Overfull \hbox (16.08336pt too wide) in paragraph at lines 21--23
+ \OT1/cmss/m/n/10 ma- 
+ []
+
+
+Overfull \hbox (20.77779pt too wide) in paragraph at lines 21--23
+ \OT1/cmss/m/n/10 tique 
+ []
+
+! Undefined control sequence.
+l.26 {\large
+             Fili√®re}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmss10!
+Missing character: There is no ® in font cmss10!
+! Undefined control sequence.
+l.27 {\large
+             Informatique}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.72226pt too wide) in paragraph at lines 26--28
+ []\OT1/cmss/m/n/10 Filire 
+ []
+
+
+Overfull \hbox (11.2778pt too wide) in paragraph at lines 26--28
+ \OT1/cmss/m/n/10 In- 
+ []
+
+
+Overfull \hbox (14.52782pt too wide) in paragraph at lines 26--28
+ \OT1/cmss/m/n/10 for- 
+ []
+
+
+Overfull \hbox (16.08336pt too wide) in paragraph at lines 26--28
+ \OT1/cmss/m/n/10 ma- 
+ []
+
+
+Overfull \hbox (20.77779pt too wide) in paragraph at lines 26--28
+ \OT1/cmss/m/n/10 tique 
+ []
+
+! Undefined control sequence.
+l.31 {\large
+             Sp√©cialit√©}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmss10!
+Missing character: There is no © in font cmss10!
+Missing character: There is no √ in font cmss10!
+Missing character: There is no © in font cmss10!
+! Undefined control sequence.
+l.32 {\large
+             Syst√®mes Informatiques Intelligents}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmss10!
+Missing character: There is no ® in font cmss10!
+
+Overfull \hbox (30.75003pt too wide) in paragraph at lines 31--33
+ []\OT1/cmss/m/n/10 Spcialit 
+ []
+
+
+Overfull \hbox (33.83337pt too wide) in paragraph at lines 31--33
+ \OT1/cmss/m/n/10 Systmes 
+ []
+
+
+Overfull \hbox (11.2778pt too wide) in paragraph at lines 31--33
+ \OT1/cmss/m/n/10 In- 
+ []
+
+
+Overfull \hbox (14.52782pt too wide) in paragraph at lines 31--33
+ \OT1/cmss/m/n/10 for- 
+ []
+
+
+Overfull \hbox (16.08336pt too wide) in paragraph at lines 31--33
+ \OT1/cmss/m/n/10 ma- 
+ []
+
+
+Overfull \hbox (24.61111pt too wide) in paragraph at lines 31--33
+ \OT1/cmss/m/n/10 tiques 
+ []
+
+
+Overfull \hbox (11.2778pt too wide) in paragraph at lines 31--33
+ \OT1/cmss/m/n/10 In- 
+ []
+
+
+Overfull \hbox (13.77777pt too wide) in paragraph at lines 31--33
+ \OT1/cmss/m/n/10 tel- 
+ []
+
+
+Overfull \hbox (8.1111pt too wide) in paragraph at lines 31--33
+ \OT1/cmss/m/n/10 li- 
+ []
+
+
+Overfull \hbox (22.05557pt too wide) in paragraph at lines 31--33
+ \OT1/cmss/m/n/10 gents 
+ []
+
+! Undefined control sequence.
+l.36 {\bfseries\LARGE
+                      Th√®me}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no √ in font cmssbx10!
+Missing character: There is no ® in font cmssbx10!
+
+Overfull \hbox (26.72234pt too wide) in paragraph at lines 36--37
+ []\OT1/cmss/bx/n/10 Thme 
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <28.45274> not available
+(Font)              size <24.88> substituted on input line 42.
+
+Missing character: There is no √ in font cmss17!
+Missing character: There is no © in font cmss17!
+Missing character: There is no √ in font cmss17!
+Missing character: There is no ® in font cmss17!
+
+Overfull \hbox (108.22527pt too wide) in paragraph at lines 42--43
+ []\OT1/cmss/m/n/24.88 Adaptation 
+ []
+
+
+Overfull \hbox (22.43694pt too wide) in paragraph at lines 42--43
+ \OT1/cmss/m/n/24.88 de 
+ []
+
+
+Overfull \hbox (16.75775pt too wide) in paragraph at lines 42--43
+ \OT1/cmss/m/n/24.88 la 
+ []
+
+
+Overfull \hbox (46.00377pt too wide) in paragraph at lines 42--43
+ \OT1/cmss/m/n/24.88 mta- 
+ []
+
+
+Overfull \hbox (105.41568pt too wide) in paragraph at lines 42--43
+ \OT1/cmss/m/n/24.88 heuristique 
+ []
+
+
+Overfull \hbox (45.80371pt too wide) in paragraph at lines 42--43
+ \OT1/cmss/m/n/24.88 BSO 
+ []
+
+
+Overfull \hbox (33.9954pt too wide) in paragraph at lines 42--43
+ \OT1/cmss/m/n/24.88 aux 
+ []
+
+
+Overfull \hbox (50.89304pt too wide) in paragraph at lines 42--43
+ \OT1/cmss/m/n/24.88 prob- 
+ []
+
+
+Overfull \hbox (43.44412pt too wide) in paragraph at lines 42--43
+ \OT1/cmss/m/n/24.88 lmes 
+ []
+
+
+Overfull \hbox (138.25124pt too wide) in paragraph at lines 42--43
+ \OT1/cmss/m/n/24.88 d'optimisation 
+ []
+
+
+Overfull \hbox (41.93427pt too wide) in paragraph at lines 42--43
+ \OT1/cmss/m/n/24.88 con- 
+ []
+
+
+Overfull \hbox (48.46341pt too wide) in paragraph at lines 42--43
+ \OT1/cmss/m/n/24.88 tinue 
+ []
+
+Missing character: There is no √ in font cmssbx10!
+Missing character: There is no © in font cmssbx10!
+
+Overfull \hbox (23.7362pt too wide) in paragraph at lines 49--50
+[]\OT1/cmss/bx/n/10 Sujet
+ []
+
+
+Overfull \hbox (18.19453pt too wide) in paragraph at lines 49--50
+\OT1/cmss/bx/n/10 pro-
+ []
+
+
+Overfull \hbox (15.6334pt too wide) in paragraph at lines 49--50
+\OT1/cmss/bx/n/10 pos
+ []
+
+
+Overfull \hbox (14.27785pt too wide) in paragraph at lines 49--50
+\OT1/cmss/bx/n/10 par
+ []
+
+
+Overfull \hbox (3.05557pt too wide) in paragraph at lines 49--50
+\OT1/cmss/bx/n/10 : 
+ []
+
+
+Overfull \hbox (21.13895pt too wide) in paragraph at lines 51--52
+[]\OT1/cmss/m/n/10 Mme
+ []
+
+
+Overfull \hbox (28.68068pt too wide) in paragraph at lines 51--52
+\OT1/cmss/m/n/10 DRIAS
+ []
+
+
+Overfull \hbox (29.41675pt too wide) in paragraph at lines 51--52
+\OT1/cmss/m/n/10 Habiba 
+ []
+
+Missing character: There is no √ in font cmssbx10!
+Missing character: There is no © in font cmssbx10!
+Missing character: There is no √ in font cmssbx10!
+Missing character: There is no © in font cmssbx10!
+
+Overfull \hbox (29.7307pt too wide) in paragraph at lines 55--56
+[]\OT1/cmss/bx/n/10 Prsent
+ []
+
+
+Overfull \hbox (14.27785pt too wide) in paragraph at lines 55--56
+\OT1/cmss/bx/n/10 par
+ []
+
+
+Overfull \hbox (3.05557pt too wide) in paragraph at lines 55--56
+\OT1/cmss/bx/n/10 : 
+ []
+
+
+Overfull \hbox (17.97226pt too wide) in paragraph at lines 57--58
+[]\OT1/cmss/m/n/10 Mlle
+ []
+
+
+Overfull \hbox (30.34729pt too wide) in paragraph at lines 57--58
+\OT1/cmss/m/n/10 ZOUG-
+ []
+
+
+Overfull \hbox (22.56953pt too wide) in paragraph at lines 57--58
+\OT1/cmss/m/n/10 GARI
+ []
+
+
+Overfull \hbox (22.50003pt too wide) in paragraph at lines 57--58
+\OT1/cmss/m/n/10 Feriel 
+ []
+
+
+Overfull \hbox (17.97226pt too wide) in paragraph at lines 59--60
+[]\OT1/cmss/m/n/10 Mlle
+ []
+
+
+Overfull \hbox (15.97224pt too wide) in paragraph at lines 59--60
+\OT1/cmss/m/n/10 BE-
+ []
+
+
+Overfull \hbox (47.01407pt too wide) in paragraph at lines 59--60
+\OT1/cmss/m/n/10 LOUADAH
+ []
+
+
+Overfull \hbox (20.75002pt too wide) in paragraph at lines 59--60
+\OT1/cmss/m/n/10 Eden 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Missing character: There is no √ in font cmssbx10!
+Missing character: There is no © in font cmssbx10!
+
+Overfull \hbox (32.95848pt too wide) in paragraph at lines 64--65
+ []\OT1/cmss/bx/n/10 Devant 
+ []
+
+
+Overfull \hbox (7.66669pt too wide) in paragraph at lines 64--65
+ \OT1/cmss/bx/n/10 le 
+ []
+
+
+Overfull \hbox (17.1945pt too wide) in paragraph at lines 64--65
+ \OT1/cmss/bx/n/10 jury 
+ []
+
+
+Overfull \hbox (22.72234pt too wide) in paragraph at lines 64--65
+ \OT1/cmss/bx/n/10 com- 
+ []
+
+
+Overfull \hbox (15.6334pt too wide) in paragraph at lines 64--65
+ \OT1/cmss/bx/n/10 pos 
+ []
+
+
+Overfull \hbox (10.72226pt too wide) in paragraph at lines 64--65
+ \OT1/cmss/bx/n/10 de 
+ []
+
+
+Overfull \hbox (3.05557pt too wide) in paragraph at lines 64--65
+ \OT1/cmss/bx/n/10 : 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 69.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 69.
+Missing character: There is no √ in font cmss10!
+Missing character: There is no © in font cmss10!
+
+Overfull \hbox (12.16673pt too wide) in paragraph at lines 70--70
+[]\OT1/cmss/m/n/10 Mr
+ []
+
+
+Overfull \hbox (12.3889pt too wide) in paragraph at lines 70--70
+\OT1/cmss/m/n/10 Al-
+ []
+
+
+Overfull \hbox (13.33336pt too wide) in paragraph at lines 70--70
+\OT1/cmss/m/n/10 go-
+ []
+
+
+Overfull \hbox (26.97226pt too wide) in paragraph at lines 70--70
+\OT1/cmss/m/n/10 rithme
+ []
+
+
+Overfull \hbox (25.52782pt too wide) in paragraph at lines 70--70
+\OT1/cmss/m/n/10 Struc-
+ []
+
+
+Overfull \hbox (12.19447pt too wide) in paragraph at lines 70--70
+\OT1/cmss/m/n/10 tur| 
+ []
+
+Missing character: There is no √ in font cmss10!
+Missing character: There is no © in font cmss10!
+Missing character: There is no √ in font cmss10!
+Missing character: There is no © in font cmss10!
+
+Overfull \hbox (21.13895pt too wide) in paragraph at lines 71--71
+[]\OT1/cmss/m/n/10 Mme
+ []
+
+
+Overfull \hbox (19.75003pt too wide) in paragraph at lines 71--71
+\OT1/cmss/m/n/10 Base
+ []
+
+
+Overfull \hbox (9.61111pt too wide) in paragraph at lines 71--71
+\OT1/cmss/m/n/10 de
+ []
+
+
+Overfull \hbox (28.7778pt too wide) in paragraph at lines 71--71
+\OT1/cmss/m/n/10 donnes| 
+ []
+
+
+Overfull \hbox (34.41672pt too wide) in paragraph at lines 69--73
+[][] 
+ []
+
+Missing character: There is no √ in font cmss10!
+Missing character: There is no ¥ in font cmss10!
+
+Overfull \hbox (100.38911pt too wide) in paragraph at lines 77--81
+ [][] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ./Page_de_garde.tex
+                       
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 20 strings out of 493333
+ 287 string characters out of 3139198
+ 56255 words of memory out of 3000000
+ 3645 multiletter control sequences out of 15000+200000
+ 4545 words of font info for 17 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,10n,14p,156b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

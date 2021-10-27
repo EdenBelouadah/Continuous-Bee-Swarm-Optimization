@@ -1,0 +1,297 @@
+\begin{thebibliography}{10}
+  \providebibliographyfont{name}{}%
+  \providebibliographyfont{lastname}{}%
+  \providebibliographyfont{title}{\emph}%
+  \providebibliographyfont{jtitle}{\btxtitlefont}%
+  \providebibliographyfont{etal}{\emph}%
+  \providebibliographyfont{journal}{}%
+  \providebibliographyfont{volume}{}%
+  \providebibliographyfont{ISBN}{\MakeUppercase}%
+  \providebibliographyfont{ISSN}{\MakeUppercase}%
+  \providebibliographyfont{url}{\url}%
+  \providebibliographyfont{numeral}{}%
+  \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem {babazadeh2011application}
+\btxnamefont {\btxlastnamefont {{Babazadeha Abbas}}}, \btxnamefont
+  {\btxlastnamefont {{Poorzahedy Hossain}}}\btxandcomma {} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Nikoosokhan Saeid}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Application of particle swarm optimization
+  to transportation network design problem}{Application of particle swarm
+  optimization to transportation network design problem}}.
+\newblock \btxjournalfont {Journal of King Saud University-Science},
+  23(3):293--300, 2011.
+
+\bibitem {battiti1996continuous}
+\btxnamefont {\btxlastnamefont {{Battiti Roberto}}} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Tecchiolli Giampietro}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {The continuous reactive tabu search:
+  blending combinatorial optimization and stochastic search for global
+  optimization}{The continuous reactive tabu search: blending combinatorial
+  optimization and stochastic search for global optimization}}.
+\newblock \btxjournalfont {Annals of Operations Research}, 63(2):151--188,
+  1996.
+
+\bibitem {bilbro1991optimization}
+\btxnamefont {\btxlastnamefont {{Bilbro Griff L.}}} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Snyder Wesley E.}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Optimization of functions with many
+  minima}{Optimization of functions with many minima}}.
+\newblock \btxjournalfont {IEEE Transactions on Systems, Man, and Cybernetics},
+  21(4):840--849, 1991.
+
+\bibitem {bilchev1995ant}
+\btxnamefont {\btxlastnamefont {{Bilchev George}}} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Parmee Ian}}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {The ant colony metaphor for searching continuous design
+  spaces}{The ant colony metaphor for searching continuous design spaces}}.
+\newblock \btxjournalfont {Evolutionary Computing}, \btxpageslong {}\ 25--39,
+  1995.
+
+\bibitem {bosman2002multi}
+\btxnamefont {\btxlastnamefont {{Bosman Peter}}} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Thierens Dirk}}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Multi-objective optimization with diversity preserving
+  mixture-based iterated density estimation evolutionary
+  algorithms}{Multi-objective optimization with diversity preserving
+  mixture-based iterated density estimation evolutionary algorithms}}.
+\newblock \btxjournalfont {International Journal of Approximate Reasoning},
+  31(3):259--289, 2002.
+
+\bibitem {boussaid}
+\btxnamefont {\btxlastnamefont {{Boussaid Ilhem}}}\btxauthorcolon\
+  \btxtitlefont {{Improvement of metaheuristics for continuous optimization}}.
+\newblock \btxphdthesis {}, {Universit{\'e} Paris-Est}, 2013.
+
+\bibitem {Chelouadh_siarry_2000}
+\btxnamefont {\btxlastnamefont {{Chelouah Rachid}}} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Siarry Patrick}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {A continuous genetic algorithm designed for
+  the global optimization of multimodal functions}{A Continuous Genetic
+  Algorithm Designed for the Global Optimization of Multimodal Functions}}.
+\newblock \btxjournalfont {Journal of Heuristics}, 6:191–--213, 2000.
+
+\bibitem {Chelouadh_siarry_2001}
+\btxnamefont {\btxlastnamefont {{Chelouah Rachid}}} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Siarry Patrick}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Tabu search applied to global
+  optimization}{Tabu Search applied to global optimization}}.
+\newblock \btxjournalfont {European Journal of Operational Research},
+  123:256–--270, 2000.
+
+\bibitem {cvijovic1995taboo}
+\btxnamefont {\btxlastnamefont {{Cvijovic Djurdje}}} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Klinowski Jacek}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Taboo search: an approach to the multiple
+  minima problem}{Taboo search: an approach to the multiple minima problem}}.
+\newblock \btxjournalfont {Science}, 267(5198):664, 1995.
+
+\bibitem {DJEFFAL_DRIAS_2013}
+\btxnamefont {\btxlastnamefont {{Djeffal Marwa}}} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Drias Habiba}}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Multilevel bee swarm optimization for large satisfibility
+  problem instances}{Multilevel Bee Swarm Optimization for Large Satisfibility
+  Problem Instances}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Intelligent Data Engineering and
+  Automated Learning}, \btxvolumelong {}\ \btxvolumefont {8206}, \btxpageslong
+  {}\ 594--602, 2013.
+
+\bibitem {DJENOURI_DRIAS_HABBAS_2014}
+\btxnamefont {\btxlastnamefont {{Djenouri Y.}}}, \btxnamefont {\btxlastnamefont
+  {{Drias H.}}}\btxandcomma {} \btxandlong {}\ \btxnamefont {\btxlastnamefont
+  {{Habbas Z.}}}\btxauthorcolon\ \btxtitlefont {\btxifchangecase {Bee swarm
+  optimization using multiple strategies for association rules mining}{Bee
+  Swarm Optimization using multiple strategies for association rules mining}}.
+\newblock \Btxinlong {}\ \btxtitlefont {International Journal of Bio-Inspired
+  Computation}, \btxvolumelong {}~\btxvolumefont {6}, \btxpageslong {}\
+  239--249, 2014.
+
+\bibitem {dorigo2006ant}
+\btxnamefont {\btxlastnamefont {{Dorigo Marco}}}, \btxnamefont
+  {\btxlastnamefont {{Birattari Mauro}}}\btxandcomma {} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Stutzle Thomas}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Ant colony optimization}{Ant colony
+  optimization}}.
+\newblock \btxjournalfont {IEEE computational intelligence magazine},
+  1(4):28--39, 2006.
+
+\bibitem {dorigo1996ant}
+\btxnamefont {\btxlastnamefont {{Dorigo Marco}}}, \btxnamefont
+  {\btxlastnamefont {{Maniezzo Vittorio}}}\btxandcomma {} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Colorni Alberto}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Ant system: optimization by a colony of
+  cooperating agents}{Ant system: optimization by a colony of cooperating
+  agents}}.
+\newblock \btxjournalfont {IEEE Transactions on Systems, Man, and Cybernetics,
+  Part B (Cybernetics)}, 26(1):29--41, 1996.
+
+\bibitem {dreo2004continuous}
+\btxnamefont {\btxlastnamefont {{Dr{\'e}o Johann}}} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Siarry Patrick}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Continuous interacting ant colony algorithm
+  based on dense heterarchy}{Continuous interacting ant colony algorithm based
+  on dense heterarchy}}.
+\newblock \btxjournalfont {Future Generation Computer Systems}, 20(5):841--856,
+  2004.
+
+\bibitem {DRIAS_DOUIB_HIRECHE_2013}
+\btxnamefont {\btxlastnamefont {{Drias Habiba}}}, \btxnamefont
+  {\btxlastnamefont {{Douib Ameur}}}\btxandcomma {} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Hireche Célia}}}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {Swarm intelligence with clustering for
+  solving sat}{Swarm Intelligence with Clustering for Solving SAT}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Intelligent Data Engineering and
+  Automated Learning}, \btxvolumelong {}\ \btxvolumefont {8206}, \btxpageslong
+  {}\ 585--593, 2013.
+
+\bibitem {DRIAS_SADEG_YAHI_2005}
+\btxnamefont {\btxlastnamefont {{Drias Habiba}}}, \btxnamefont
+  {\btxlastnamefont {{Sadeg Souhila}}}\btxandcomma {} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Yahi Safa}}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Cooperative bees swarm for solving the maximum weighted
+  satisfiability problem}{Cooperative Bees Swarm for Solving the Maximum
+  Weighted Satisfiability Problem}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Computational Intelligence and
+  Bioinspired Systems}, \btxvolumelong {}\ \btxvolumefont {3512}, \btxpageslong
+  {}\ 318--325, 2005.
+
+\bibitem {esmin2012application}
+\btxnamefont {\btxlastnamefont {{Esmin Ahmed A.}}} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Lambert-Torres Germano}}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Application of particle swarm optimization to optimal
+  power systems}{Application of particle swarm optimization to optimal power
+  systems}}.
+\newblock \btxjournalfont {International Journal of Innovative Computing,
+  Information and Control}, 8(3A):1705--1716, 2012.
+
+\bibitem {hansen2003reducing}
+\btxnamefont {\btxlastnamefont {{Hansen Nikolaus}}}, \btxnamefont
+  {\btxlastnamefont {{M{\"u}ller Sibylle D.}}}\btxandcomma {} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Koumoutsakos Petros}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Reducing the time complexity of the
+  derandomized evolution strategy with covariance matrix adaptation
+  (cma-es)}{Reducing the time complexity of the derandomized evolution strategy
+  with covariance matrix adaptation (CMA-ES)}}.
+\newblock \btxjournalfont {Evolutionary computation}, 11(1):1--18, 2003.
+
+\bibitem {continue}
+\btxnamefont {\btxlastnamefont {{Jean-Louis Rouget}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Notes de cours}{Notes de cours}}.
+\newblock 2012.
+
+\bibitem {KENNEDY_EBERHART_1995}
+\btxnamefont {\btxlastnamefont {{Kennedy James}}} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Eberhart Russell}}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Particle swarm optimization}{Particle Swarm
+  Optimization}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Proceedings of IEEE International
+  Conference on Neural Networks}, \btxpageslong {}\ 1942--1948, 1995.
+
+\bibitem {kern2004learning}
+\btxnamefont {\btxlastnamefont {{Kern Stefan}}}, \btxnamefont {\btxlastnamefont
+  {{M{\"u}ller Sibylle D.}}}, \btxnamefont {\btxlastnamefont {{Hansen
+  Nikolaus}}}, \btxnamefont {\btxlastnamefont {{B{\"u}che Dirk}}}, \btxnamefont
+  {\btxlastnamefont {{Ocenasek Jiri}}}\btxandcomma {} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Koumoutsakos Petros}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Learning probability distributions in
+  continuous evolutionary algorithms--a comparative review}{Learning
+  probability distributions in continuous evolutionary algorithms--a
+  comparative review}}.
+\newblock \btxjournalfont {Natural Computing}, 3(1):77--112, 2004.
+
+\bibitem {SOCHA_DORIGO_2006}
+\btxnamefont {\btxlastnamefont {{Krzysztof Socha}}} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Marco Dorigo}}}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {Ant colony optimization for continuous
+  domains}{Ant colony optimization for continuous domains}}.
+\newblock \Btxinlong {}\ \btxtitlefont {European Journal of Operational
+  Research}, \btxvolumelong {}\ \btxvolumefont {185}, \btxpageslong {}\
+  1155--1173, 2006.
+
+\bibitem {ma2013application}
+\btxnamefont {\btxlastnamefont {{Ma Rong-Jiang}}}, \btxnamefont
+  {\btxlastnamefont {{Yu Nan-Yang}}}\btxandcomma {} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Hu Jun-Yi}}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Application of particle swarm optimization algorithm in
+  the heating system planning problem}{Application of particle swarm
+  optimization algorithm in the heating system planning problem}}.
+\newblock \btxjournalfont {The Scientific World Journal}, 2013.
+
+\bibitem {Momin_Yang_2013}
+\btxnamefont {\btxlastnamefont {{Momin Jamil}}} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Yang Xin-She}}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {A literature survey of benchmark functions for global
+  optimization problems}{A literature survey of benchmark functions for global
+  optimization problems}}.
+\newblock \btxjournalfont {Journal of Mathematical Modelling and Numerical
+  Optimisation}, 4(2):150–--194, 2013.
+
+\bibitem {Hu_1992}
+\btxnamefont {\btxlastnamefont {{N. Hu}}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Tabu search method with random moves for globally optimal
+  design}{Tabu Search method with random moves for globally optimal design}}.
+\newblock \btxjournalfont {International Journal for Numerical Methods in
+  Engineering}, 35:1055--1070, 1992.
+
+\bibitem {ocenasek2002estimation}
+\btxnamefont {\btxlastnamefont {{Ocenasek Jiff}}} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Schwarz Josef}}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Estimation of distribution algorithm for mixed
+  continuous-discrete optimization problems}{Estimation of distribution
+  algorithm for mixed continuous-discrete optimization problems}}.
+\newblock \Btxinlong {}\ \btxtitlefont {2nd Euro-International Symposium on
+  Computational Intelligence}, \btxpageslong {}\ 227--232, 2002.
+
+\bibitem {riadi2014cognitive}
+\btxnamefont {\btxlastnamefont {{Riadi Indra Chandra Joseph}}} \btxetalfont
+  {\btxetalshort {.}}\btxauthorcolon\ \btxtitlefont {Cognitive Ant colony
+  optimization: A new framework in swarm intelligence}.
+\newblock \btxphdthesis {}, University of Salford, 2014.
+
+\bibitem {seeley1991collective}
+\btxnamefont {\btxlastnamefont {{Seeley Thomas D.}}}, \btxnamefont
+  {\btxlastnamefont {{Camazine Scott}}}\btxandcomma {} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Sneyd James}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Collective decision-making in honey bees:
+  how colonies choose among nectar sources}{Collective decision-making in honey
+  bees: how colonies choose among nectar sources}}.
+\newblock \btxjournalfont {Behavioral Ecology and Sociobiology},
+  28(4):277--290, 1991.
+
+\bibitem {siarry1997fitting}
+\btxnamefont {\btxlastnamefont {{Siarry Patrick}}} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Berthiau G{\'e}rard}}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Fitting of tabu search to optimize functions of continuous
+  variables}{Fitting of tabu search to optimize functions of continuous
+  variables}}.
+\newblock \btxjournalfont {International journal for numerical methods in
+  engineering}, 40(13):2449--2457, 1997.
+
+\bibitem {siarry1997enhanced}
+\btxnamefont {\btxlastnamefont {{Siarry Patrick}}}, \btxnamefont
+  {\btxlastnamefont {{Berthiau G{\'e}rard}}}, \btxnamefont {\btxlastnamefont
+  {{Durdin Fran{\c{c}}ois}}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Haussy Jacques}}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Enhanced simulated annealing for globally minimizing
+  functions of many-continuous variables}{Enhanced simulated annealing for
+  globally minimizing functions of many-continuous variables}}.
+\newblock \btxjournalfont {ACM Transactions on Mathematical Software (TOMS)},
+  23(2):209--228, 1997.
+
+\bibitem {wolpert1997no}
+\btxnamefont {\btxlastnamefont {{Wolpert David H.}}} \btxandlong {}\
+  \btxnamefont {\btxlastnamefont {{Macready William G.}}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {No free lunch theorems for optimization}{No
+  free lunch theorems for optimization}}.
+\newblock \btxjournalfont {IEEE transactions on evolutionary computation},
+  1(1):67--82, 1997.
+
+\bibitem {yang2010new}
+\btxnamefont {\btxlastnamefont {{Yang Xin-She}}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {A new metaheuristic bat-inspired algorithm}{A new
+  metaheuristic bat-inspired algorithm}}.
+\newblock \btxjournalfont {Nature inspired cooperative strategies for
+  optimization (NICSO 2010)}, \btxpageslong {}\ 65--74, 2010.
+
+\end{thebibliography}
